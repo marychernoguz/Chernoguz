@@ -1,4 +1,6 @@
 как создать ssh ключ:
+![image](https://github.com/marychernoguz/Chernoguz/assets/145379924/8bc163f4-97dd-4720-bf5c-87bd73b85adc)
+
 Генерация SSH ключа
 Откройте Терминал. Вставьте в него следующий код, подставив в кавычки свой адрес электронной почты на GitHub.
 ssh-keygen -t ed25519 -C "your_email@example.com"
